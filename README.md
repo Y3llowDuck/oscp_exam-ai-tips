@@ -1,5 +1,9 @@
 # oscp_exam-ai-tips
-A simple Python script that leverages Reddit’s API to collect success stories from OSCP exam takers. OpenAI’s GPT-4 then analyzes the data to identify 4 actionable tips that helped students pass. This project provides AI-driven insights to help future OSCP candidates improve their study approach.
+A simple Python script that leverages Reddit’s API to collect success stories from OSCP exam takers. OpenAI’s GPT-4 then analyzes the data to identify 4 actionable tips that helped students pass. 
+
+The idea came to me after seeing so many "I passed OSCP" Reddit posts. Most useful ones. So I decided to collect all data and let OpenAI to provide a meaningful advise, using the collected and succesful pass strategies of those students.
+
+This project provides AI-driven insights to help future OSCP candidates improve their study approach. AI tips are for reference and never a replacement of Offsec PEN200 official course. 
 
 Make sure python modules are installed prior execution. I used a virtual environment instead of regular "pip install". It is much more easier. Check Step #1.
 
