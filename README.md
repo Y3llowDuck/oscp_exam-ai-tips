@@ -61,6 +61,18 @@ git clone https://github.com/Y3llowDuck/oscp_exam-ai-tips.git
 python3 ./scraper-v2.py 
 ```
 
+## Example Output
+
+Here’s an example of what running the script looks like:
+
+**Script execution:**
+
+![Example Output 1](https://github.com/Y3llowDuck/oscp_exam-ai-tips/blob/main/executing.png)
+
+**AI generated OSCP pass tips:**
+
+![Example Output 2](https://github.com/Y3llowDuck/oscp_exam-ai-tips/blob/main/tips.png)
+
 
 
 
