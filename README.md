@@ -77,6 +77,8 @@ Here’s an example of what running the script looks like:
 
 ![Example Output 2](https://github.com/Y3llowDuck/oscp_exam-ai-tips/blob/main/tips.png)
 
+AI Model Uses Probabilistic Outputs (Even with Low Temperature). So, AI suggestions may and will change every time the script runs. 
+
 
 
 
