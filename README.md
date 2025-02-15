@@ -1,6 +1,10 @@
 # oscp_exam-ai-tips
 A simple Python script that leverages Reddit’s API to collect success stories from OSCP exam takers. OpenAI’s GPT-4 then analyzes the data to identify 4 actionable tips that helped students pass. This project provides AI-driven insights to help future OSCP candidates improve their study approach.
 
+Make sure python modules are installed prior execution. I used a virtual environment instead of regular "pip install". It is much more easier. Check Step #1.
+
+** DO NOT SAVE API CREDENTIALS IN THE CODE , EVER **
+
 ## 🚀 Features
 
 - 🔍 **Reddit Scraping**: Fetches OSCP-related success posts from the last two years.
